@@ -14,7 +14,7 @@ public class Rong {
 		else{
 			System.out.println("Vagunid on aluseid täis");
 		}
-		System.out.println("_._____________________________________!");
+		System.out.println("______________________________________!");
 	}
 	
 	public void eemaldaAlus(){
