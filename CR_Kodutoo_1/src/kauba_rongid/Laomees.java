@@ -6,7 +6,7 @@ public class Laomees {
 		for( int i = 0; i < aluseid.length; i++){
 			System.out.println(i+1+". "+aluseid[i]);
 		}
-		System.out.println("______________________________________;");
+		System.out.println("._____________________________________;");
 	}
 
 	public static void main(String[] args) {
