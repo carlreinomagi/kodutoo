@@ -1,4 +1,3 @@
 kodutoo
 =======
-
-Kodune töö
+Tagavara kodutööd (COPY)
