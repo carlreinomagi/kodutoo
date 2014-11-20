@@ -49,5 +49,4 @@ public class Rong {
 	public String toString(){
 		return "Rongis on "+AluseidRongis+" alust";
 	}
-
 }
