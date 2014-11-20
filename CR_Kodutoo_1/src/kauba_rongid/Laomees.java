@@ -21,7 +21,7 @@ public class Laomees {
 		rongid[0].eemaldaAlus();
 		rongid[1].lisaAlus();
 		
-		// Rongis olevad alused loetakse uuesti üle.
+		// Rongis olevad alused loetakse üle.
 		for(int i = 0; i < rongid.length; i++){
 			System.out.println(i+1+". rongis on "+rongid[i].kysiAlusteKogus()+" alust");
 		}
