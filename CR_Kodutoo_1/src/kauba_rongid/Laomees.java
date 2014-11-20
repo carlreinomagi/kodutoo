@@ -17,7 +17,7 @@ public class Laomees {
 		
 		// Kui palju aluseid rongis on
 		alusteKogusRongis(rongid);
-		// ühest orngist võetakse alus ja lisatakse teise. (tõstetakse ümber)
+		// ühest rongist võetakse alus ja lisatakse teise. (tõstetakse ümber)
 		rongid[0].eemaldaAlus();
 		rongid[1].lisaAlus();
 		
